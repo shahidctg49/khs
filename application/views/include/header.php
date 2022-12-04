@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="utf-8" />
-    <title>South Khulshi Residential Area Welfare Society</title>
+    <title>Housing Society Management System</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta content="A fully featured admin theme which can be used to build CRM, CMS, etc." name="description" />
     <meta content="Coderthemes" name="author" />
@@ -49,7 +49,7 @@
                     <li class="dropdown notification-list">
                         <a class="nav-link dropdown-toggle nav-user mr-0 waves-effect waves-light" data-toggle="dropdown" href="#" role="button" aria-haspopup="false" aria-expanded="false">
                             <img src="<?= base_url('assets/images/users/avatar-1.jpg') ?>" alt="user-image" class="rounded-circle">
-                            <span class="ml-1">Samuel <i class="mdi mdi-chevron-down"></i> </span>
+                            <span class="ml-1">Shahidul Islam <i class="mdi mdi-chevron-down"></i> </span>
                         </a>
                         <div class="dropdown-menu dropdown-menu-right profile-dropdown ">
                             <!-- item-->

@@ -2,5 +2,5 @@
 
 $config['tables']['users']           = 'users';
 
-$config['author_email']                 = "shariful_islam0606@yahoo.com";       
-$config['author_mobile']                = "01687295469"; 
+$config['author_email']                 = "shahiduli555@gmail.com";       
+$config['author_mobile']                = "01887621949"; 
